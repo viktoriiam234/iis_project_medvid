@@ -5,6 +5,7 @@
 
 Паспорт проєкту: [docs/lab01_pasport.md](docs/lab01_pasport.md)
 
+
 ## Запуск
     python3 -m venv .venv
     source .venv/bin/activate
